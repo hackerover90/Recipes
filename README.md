@@ -1,1 +1,2 @@
 # Recipes
+This project is a website of my student diet. Each link directs to a webpage concerning the recipe and the webpage has the picture, ingredients, as well as the directions on how to cook the ingredients. By completing this project I learned how to use ordered and unordered lists, links, images, headers, paragraphs, working with texts, and most importantly how to use Git and GitHub.
